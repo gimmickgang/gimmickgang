@@ -1,6 +1,7 @@
 どーもどーも
 
 - [ニコニコ大百科](https://dic.nicovideo.jp/u/10450913)
+- [𝕏](https://x.com/gimmickgang)
 
 <!--
 **gimmickgang/gimmickgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
